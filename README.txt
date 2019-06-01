@@ -4,7 +4,7 @@ LadderManager is a bot maintained by discord user Antis#4219. Since he's poor an
 
 
 SETUP:
-0. download python 3.6.7
+0. download python 3.6.7 --> https://www.python.org/downloads/release/python-367/
 1. download discord.py 1.0.0, setup your discord bot account --> https://pythonprogramming.net/discordpy-basic-bot-tutorial-introduction/
 2. download and unzip the files here and put them all into the same folder
 3. Add your discord bot token to dynamic_options.py.
